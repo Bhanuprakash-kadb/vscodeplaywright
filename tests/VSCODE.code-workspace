@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../VSCODE"
+		},
+		{
+			"name": "practice2",
+			"path": "../../seleniumvscode/practice2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
